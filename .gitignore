@@ -1,0 +1,4 @@
+App/bin/
+App/data/
+App/.buildozer/
+App/__pycache__/

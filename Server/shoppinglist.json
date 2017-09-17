@@ -1,0 +1,3 @@
+[{"title": "Milk", "amount": 2, "active": true},
+{"title": "Cheese", "amount": 3, "active": true},
+{"title": "Apples", "amount": 5, "active": false}]
