@@ -11,10 +11,15 @@ your own if you want to compile the app.
 Concretely you have to provide the following icon files(works best with icons in a 1:1 aspect ratio) in the subfolder
 data:
 
+
 1. data/plus.png (plus sign that is used for adding items or increasing the amount)
+
 2. data/minus.png (minus sign for decreasing the amount)
-2. data/refresh_on.png (icon that refreshes the shopping list by fetching it from the remote server)
-3. data/edit.png (edit mode off) and data/edit_on.png (edit mode on)
+
+3. data/refresh_on.png (icon that refreshes the shopping list by fetching it from the remote server)
+
+4. data/edit.png (edit mode off) and data/edit_on.png (edit mode on)
+
 
 After providing these files you have to change line 19 in main.py
 to point towards your servers address.
